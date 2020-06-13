@@ -1,1 +1,1 @@
-![](../../starMap.gif)
+![](starMap.gif)
